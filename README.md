@@ -32,10 +32,6 @@ Helping organisations transform data into meaningful business decisions through 
 
 # Welcome
 
-Most portfolios introduce technologies.
-
-This portfolio introduces **business thinking**.
-
 I believe organisations don't invest in dashboards, SQL queries, programming languages, or reports.
 
 They invest in **better decisions**.
